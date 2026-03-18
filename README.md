@@ -60,6 +60,12 @@ contract Crowdfunding {
     }
 }
 ```
+output:
+<img width="1920" height="1140" alt="Screenshot 2026-02-25 093811" src="https://github.com/user-attachments/assets/305b33e1-e753-40de-a380-cd3110ae924c" />
+<img width="1920" height="1140" alt="Screenshot 2026-02-25 104109" src="https://github.com/user-attachments/assets/8e0492d0-ea1b-4140-a200-65666128bd62" />
+
+```
+```
 # Expected Output:
 Users can contribute ETH to the campaign.
 
@@ -69,9 +75,6 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
-# Output
-
-<img width="1905" height="1033" alt="Screenshot 2026-02-25 101347" src="https://github.com/user-attachments/assets/607b368e-9365-49ff-b57a-2b73dbc76c29" />
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -79,4 +82,5 @@ Teaches decentralized fundraising.
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
-# RESULT:
+# RESULT: 
+THUS THE PROGRAM HAS BEEN EXECUTED SUCCESSFULLY
